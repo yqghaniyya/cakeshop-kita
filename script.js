@@ -1,0 +1,1 @@
+window.addEventListener('scroll',()=>document.querySelectorAll('.card').forEach(c=>c.style.transform='translateY(0)'));
